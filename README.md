@@ -1,4 +1,4 @@
-# payment-gateway.github.io
+# Payment Gateway 
 
 ## Contact
 
